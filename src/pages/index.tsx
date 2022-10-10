@@ -26,10 +26,10 @@ import { ButtonType } from "../components/ButtonType";
 import { Card } from "../components/Card";
 
 import logoLinkedinImg from "../assets/logoLinkedin.svg";
-import logoGithubImg from "../assets/logoGitHub.svg";
+import logoGithubImg from "../assets/logoGithub.svg";
 import rectangleDownImg from "../assets/RectangleDown.svg";
 import rectangleUpImg from "../assets/RectangleUp.svg";
-import portalDividerImg from "../assets/PortalDivider.png";
+import portalDividerImg from "../assets/portalDivider.png";
 import headerImg from "../assets/headerImg.png";
 import searchImg from "../assets/searchIcon.svg";
 

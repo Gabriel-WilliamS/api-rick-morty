@@ -18,7 +18,7 @@ import "simplebar-react/dist/simplebar.min.css";
 
 import rectangleDownImg from "../../assets/RectangleDown.svg";
 import rectangleUpImg from "../../assets/RectangleUp.svg";
-import portalDividerImg from "../../assets/PortalDivider.png";
+import portalDividerImg from "../../assets/portalDivider.png";
 import arrowLeftImg from "../../assets/arrowLeft.svg";
 
 interface CharacterProps {
