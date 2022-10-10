@@ -101,7 +101,7 @@ const Character = ({ character }: CharacterProps) => {
           <h1>Episodes with participation</h1>
 
           <EpisodesList>
-            <SimpleBar style={{ height: "100%" }}>
+            <SimpleBar style={{ maxHeight: 400 }}>
               <ul>
                 {character.episode.map((episode) => (
                   <li key={episode.name}>

@@ -108,7 +108,8 @@ export const EpisodesContainer = styled("div", {
 
   "@sm": {
     margin: 0,
-    height: "60rem",
+    height: "fit-content",
+    maxHeight: "60rem",
     paddingBottom: "5rem"
   }
 });
