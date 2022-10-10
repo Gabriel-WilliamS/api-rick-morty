@@ -21,10 +21,6 @@ export const Container = styled("main", {
       border: "none",
       cursor: "pointer"
     }
-  },
-
-  "@sm": {
-    height: "100%"
   }
 });
 
@@ -33,7 +29,8 @@ export const Content = styled("div", {
   display: "grid",
   gridTemplateColumns: "1fr 60px 1fr",
   gridTemplateRows: "1fr",
-  margin: "8rem auto",
+  margin: "0 auto ",
+  padding: "3rem 0",
 
   "@sm": {
     display: "flex",
@@ -109,7 +106,7 @@ export const EpisodesContainer = styled("div", {
   "@sm": {
     margin: 0,
     height: "fit-content",
-    maxHeight: "60rem",
+    maxHeight: "70rem",
     paddingBottom: "5rem"
   }
 });
