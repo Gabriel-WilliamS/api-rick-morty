@@ -11,7 +11,6 @@ export default function Document() {
           href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap"
           rel="stylesheet"
         />
-        <link rel="shortcut icon" href="favicon.png" type="image/x-icon" />
         <style id="stitches" dangerouslySetInnerHTML={{ __html: getCssText() }} />
       </Head>
       <body>
