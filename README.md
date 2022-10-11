@@ -1,8 +1,18 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## 🗃️​ O Projeto
 
-## Getting Started
+Esté é um projeto sobre a série Rick and Morty feito em next.js, nele você proderá conhecer um pouco mais sobre os personagens podendo filtar por nome ou por gênero.
 
-First, run the development server:
+## 🚀 Como iniciar o projeto
+
+Primeiro, instale as dependencias do projeto:
+
+```bash
+npm install
+# or
+yarn
+```
+
+Após intalado, execute o servidor de desenvolvimento:
 
 ```bash
 npm run dev
@@ -10,25 +20,22 @@ npm run dev
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Abra [http://localhost:3000](http://localhost:3000) com seu navegador para ver o resultado.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+## ​🧪​ Tecnologias útilizadas
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="52" width="52"/>
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="52" width="52" />
 
-## Learn More
+<img src="https://bestofjs.org/logos/stitches.svg" height="52" width="52" />
 
-To learn more about Next.js, take a look at the following resources:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="52" width="52" />
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🔎​ Prévia
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<img src="https://media.discordapp.net/attachments/821362753335853147/1029394791336783942/unknown.png?width=1080&height=531" />
 
-## Deploy on Vercel
+## 🖥️​ Deploy
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Veja o projeto pronto na web ou celular [Projeto Rick and Morty](https://api-rick-morty-e60pbz53o-gabriel-williams.vercel.app/)
