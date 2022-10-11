@@ -1,6 +1,6 @@
 ## 🗃️​ O Projeto
 
-Esté é um projeto sobre a série Rick and Morty feito em next.js, nele você proderá conhecer um pouco mais sobre os personagens podendo filtar por nome ou por gênero.
+Este é um projeto sobre a série Rick and Morty feito em next.js, nele você poderá conhecer um pouco mais sobre os personagens podendo filtrar por nome ou por gênero.
 
 ## 🚀 Como iniciar o projeto
 
